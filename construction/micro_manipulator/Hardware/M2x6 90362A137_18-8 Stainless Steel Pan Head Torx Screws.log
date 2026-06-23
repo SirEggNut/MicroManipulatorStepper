@@ -1,0 +1,42 @@
+STEP translation to Solid Edge
+Date: Monday,June 22,2026 10:30PM
+Source File: C:\Installations\GitHub Projects\MicroManipulatorStepper\construction\micro_manipulator\Hardware\M2x6 90362A137_18-8 Stainless Steel Pan Head Torx Screws.STEP
+Author: McMaster Carr Supply
+Organization: McMaster Carr Supply
+Source System: SolidWorks 2024
+
+Hardware:
+Processor: AMD Ryzen 7 7800X3D 8-Core Processor           
+Operating System: Windows 10 Professional Version:22H2 Build:19045 System Type:64-bit
+Installed Memory: 31.1 GB
+
+Software Information
+Parasolid Version: 38.0.150
+PSBodyShop Version: 38.0.111
+Step Adapter Version: 1700.0.0
+Solid Edge Version: 226.00.01.004 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Optimize:Off
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Installations\GitHub Projects\MicroManipulatorStepper\construction\micro_manipulator\Hardware
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
+Translation process completed
+Total time required to translate and post process:00 : 00 : 02
