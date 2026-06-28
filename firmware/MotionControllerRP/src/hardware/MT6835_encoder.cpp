@@ -4,9 +4,9 @@
 // --------------------------------------------------------------------------------------
 
 #include "MT6835_encoder.h"
-#include "hardware/spi.h"
-#include "hardware/gpio.h"
-#include "pico/stdlib.h"
+#include <hardware/spi.h>
+#include <hardware/gpio.h>
+#include <pico/stdlib.h>
 #include "utilities/logging.h"
 
 void MT6835Encoder::setup_spi(spi_inst_t* spi, uint pin_sck, uint pin_mosi, uint pin_miso, int32_t baudrate_hz) {
